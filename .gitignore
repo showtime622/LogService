@@ -1,1 +1,5 @@
 .vs
+LogService.Model/bin
+LogService.Model/obj
+LogService/bin
+LogService/obj
