@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DateConfig>
+  <baseOnWorkDateTime>09:00</baseOnWorkDateTime>
+  <baseOnLeaveDatime>18:00</baseOnLeaveDatime>
+  <OnWorkTomorrowOnWork>09:10</OnWorkTomorrowOnWork>
+  <OnLeaveTomorrow>18:30</OnLeaveTomorrow>
+  <OnWorkRange>
+    <beforeHour>1</beforeHour>
+    <afterHour>1</afterHour>
+    <beforeMin>30</beforeMin>
+    <afterMin>30</afterMin>
+  </OnWorkRange>
+  <OnLeaveRange>
+    <before>1</before>
+    <after>1</after>
+    <beforeMin>30</beforeMin>
+    <afterMin>30</afterMin>
+  </OnLeaveRange>
+</DateConfig>
+  

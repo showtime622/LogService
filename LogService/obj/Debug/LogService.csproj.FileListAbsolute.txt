@@ -1,0 +1,5 @@
+D:\projects\NetProjects\LogService\LogService\bin\Debug\LogService.exe
+D:\projects\NetProjects\LogService\LogService\bin\Debug\LogService.pdb
+D:\projects\NetProjects\LogService\LogService\obj\Debug\LogService.exe
+D:\projects\NetProjects\LogService\LogService\obj\Debug\LogService.pdb
+D:\projects\NetProjects\LogService\LogService\bin\Debug\config.xml

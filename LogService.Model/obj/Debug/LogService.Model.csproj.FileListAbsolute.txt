@@ -1,0 +1,4 @@
+D:\projects\NetProjects\LogService\LogService.Model\bin\Debug\LogService.Model.dll
+D:\projects\NetProjects\LogService\LogService.Model\bin\Debug\LogService.Model.pdb
+D:\projects\NetProjects\LogService\LogService.Model\obj\Debug\LogService.Model.dll
+D:\projects\NetProjects\LogService\LogService.Model\obj\Debug\LogService.Model.pdb
